@@ -37,7 +37,7 @@ graph TD
     
     API -->|3. Query Text| ModelLoader
     ModelLoader -->|4. Predict| PriorityModel
-    ModelLoader -->|5. Predict (If not Awareness)| TeamModel
+    ModelLoader -->|5. Predict if not Awareness| TeamModel
     
     PriorityModel -.->|Priority Result| ModelLoader
     TeamModel -.->|Team Result| ModelLoader

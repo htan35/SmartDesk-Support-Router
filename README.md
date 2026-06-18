@@ -1,10 +1,10 @@
-# SmartDesk Support Router 🚀
+# SmartDesk Support Router
 
 An intelligent, end-to-end support ticket classification and routing platform. SmartDesk Router leverages Natural Language Processing (NLP) to parse employee requests, automatically categorize their priority, and route technical issues to the appropriate internal teams, complete with a closed-loop feedback mechanism for model corrections.
 
 ---
 
-## 📸 Project Interface Walkthrough
+## Project Interface Walkthrough
 
 ### 1. Unified Dashboard (Clean State)
 A clean, streamlined employee ticket entry form built with a premium Ocean Cyan theme.
@@ -20,7 +20,7 @@ If the model's prediction is inaccurate, employees can submit corrected tags. Th
 
 ---
 
-## ⚙️ System Architecture & Data Flow
+## System Architecture & Data Flow
 
 ### System Component Diagram
 The diagram below details the components of the SmartDesk Router and how they interact:
@@ -91,7 +91,7 @@ sequenceDiagram
 
 ---
 
-## 📁 Repository Directory Structure
+## Repository Directory Structure
 
 ```text
 SmartDesk-Support-Router/
@@ -126,7 +126,7 @@ SmartDesk-Support-Router/
 
 ---
 
-## 🛠️ Installation & Getting Started
+## Installation & Getting Started
 
 ### Prerequisites
 * **Python**: `3.8+`
@@ -159,7 +159,7 @@ npm install
 
 ---
 
-## 🚀 Execution & Usage
+## Execution & Usage
 
 ### 1. Training the Machine Learning Models
 If you want to train the models from scratch or retrain them after merging feedback, run the training pipeline:
@@ -189,7 +189,7 @@ This automatically compiles and opens the browser to `http://localhost:3000`.
 
 ---
 
-## 🔄 The Closed-Loop Training Philosophy
+## The Closed-Loop Training Philosophy
 As support requests are routed, employees submit corrections for misclassified tickets. These corrections are recorded in `data/corrections.csv`. To close the loop:
 1. Merge the rows from `data/corrections.csv` back into the primary training dataset `data/sr_tickets.csv`.
 2. Clean or drop duplicates.

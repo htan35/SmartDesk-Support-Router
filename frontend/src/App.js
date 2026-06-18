@@ -90,7 +90,7 @@ function App() {
   return (
     <div className={`app-container ${isDarkMode ? 'dark-mode' : 'light-mode'}`}>
       <button onClick={toggleTheme} className="theme-toggle">
-        {isDarkMode ? '☀️ Light Mode' : '🌙 Dark Mode'}
+        {isDarkMode ? 'Light Mode' : 'Dark Mode'}
       </button>
       
       <h1 className="header-title">SmartDesk Support Router</h1>
