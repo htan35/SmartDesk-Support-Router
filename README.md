@@ -6,7 +6,7 @@ An intelligent, end-to-end support ticket classification and routing platform. S
 
 ## Project Interface Walkthrough
 
-### 1. Unified Dashboard (Clean State)
+### 1. Unified Dashboard 
 A clean, streamlined employee ticket entry form built with a premium Ocean Cyan theme.
 ![Dashboard Clean](./screenshots/dashboard_clean.png)
 
