@@ -46,7 +46,7 @@ graph TD
     API -->|7. Save Files| UploadsDir
     ModelLoader -->|8. JSON Response| Results
     
-    Results -->|9. User Feedback (Optional)| CorrectionAPI
+    Results -->|9. User Feedback - Optional| CorrectionAPI
     CorrectionAPI -->|10. Save Correction| CorrectionsCSV
 ```
 
@@ -77,7 +77,7 @@ sequenceDiagram
 
     User->>Frontend: Fills Name, Emp ID, Query, Files
     User->>Frontend: Clicks "Classify"
-    Frontend->>Backend: POST /classify (FormData)
+    Frontend->>Backend: POST /classify - FormData
     Backend->>Storage: Saves uploaded files to /uploads
     
     Backend->>ML_Pipeline: Sends Query String
@@ -97,11 +97,11 @@ sequenceDiagram
     
     User->>Frontend: Checks if result is correct
     alt Result is Incorrect
-        User->>Frontend: Clicks "Yes" (Discrepancy)
+        User->>Frontend: Clicks Yes - Discrepancy
         Frontend-->>User: Shows Correction Form
         User->>Frontend: Selects Correct Priority & Team
         User->>Frontend: Submits Correction
-        Frontend->>Backend: POST /correction (JSON)
+        Frontend->>Backend: POST /correction - JSON
         Backend->>Storage: Appends to corrections.csv
         Backend-->>Frontend: Success Response
         Frontend-->>User: Shows "Thank you" alert

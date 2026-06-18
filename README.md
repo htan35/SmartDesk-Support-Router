@@ -77,14 +77,14 @@ sequenceDiagram
     API->>ML: Run text through Priority & Team Vectorizers
     ML-->>API: Return standardized predictions
     API->>CSV: Append transaction to submissions.csv
-    API-->>UI: Respond with predictions (JSON)
+    API-->>UI: Respond with predictions - JSON
     UI-->>Employee: Display Priority & Team routing output
 
     alt Classification is Incorrect
         Employee->>UI: Click 'Yes, Correct It' & select true values
         UI->>API: POST /correction { name, empId, query, correctedPriority, correctedTeam }
         API->>CSV: Append record to corrections.csv
-        API-->>UI: Respond with 200 OK (Success)
+        API-->>UI: Respond with 200 OK - Success
         UI-->>Employee: Show confirmation toast
     end
 ```
