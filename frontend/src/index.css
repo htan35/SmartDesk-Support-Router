@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+
+:root {
+  /* Core Colors */
+  --primary: #0891B2; /* Ocean Cyan */
+  --primary-hover: #0E7490;
+  --secondary: #06B6D4; /* Light Cyan */
+  
+  /* Light Theme Variables */
+  --bg-color-light: #F4F7FB;
+  --card-bg-light: #FFFFFF;
+  --text-main-light: #1A1D20;
+  --text-muted-light: #6C757D;
+  --border-light: #E0E5EC;
+  --input-bg-light: #F8FAFC;
+  --shadow-light: 0 10px 30px rgba(0, 0, 0, 0.05);
+
+  /* Dark Theme Variables */
+  --bg-color-dark: #0F1115;
+  --card-bg-dark: #1E2128;
+  --text-main-dark: #F8FAFC;
+  --text-muted-dark: #9BA3AF;
+  --border-dark: #2A2F3A;
+  --input-bg-dark: #15181E;
+  --shadow-dark: 0 10px 30px rgba(0, 0, 0, 0.4);
+  
+  /* Typography */
+  --font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+  
+  /* Spacing & Radii */
+  --radius-sm: 8px;
+  --radius-md: 12px;
+  --radius-lg: 20px;
+  --transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+}
+
+body {
+  margin: 0;
+  font-family: var(--font-family);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  transition: var(--transition);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+}

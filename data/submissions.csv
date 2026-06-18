@@ -1,0 +1,17 @@
+Name,Employee ID,Query,Priority,Team,Files
+Prabal ,900912,I can't find no silver lining.,AWARENESS,,FinTech-lending-in-Sub-Saharan-Africa.pdf
+sdfg,234,sdfg,AWARENESS,,Chart_from_Google_Docs_2.svg
+John Doe,EMP12345,The customer cannot access their online banking portal,HIGH PRIORITY URGENT TECHNICAL,TECH,
+John Doe,EMP12345,The customer cannot access their online banking portal,HIGH PRIORITY URGENT TECHNICAL,TECH,847638.png
+John Doe,EMP12345,The customer cannot access their online banking portal,HIGH PRIORITY URGENT TECHNICAL,TECH,847638.png
+Alice,EMP999,Network is down,LOW PRIORITY TECHNICAL,TECH,
+Alice,EMP999,Network is down,LOW PRIORITY TECHNICAL,TECH,
+tung,emp1,customer busy,AWARENESS,,
+tung,emp1,customer not able to access wifi,LOW PRIORITY TECHNICAL,TECH,
+tung,emp1,customer busy,AWARENESS,,
+tung,emp1,customer died,AWARENESS,,
+tung,emp1,customer network,LOW PRIORITY TECHNICAL,TECH,
+tung,emp1,My email is not working,AWARENESS,,
+Jane Doe,EMP999,How can I change my registered phone number?,AWARENESS,,
+Jane Doe,EMP999,How can I change my registered phone number?,AWARENESS,,
+John Smith,EMP100,The server crashes when I upload large files,HIGH PRIORITY URGENT TECHNICAL,TECH,

@@ -1,0 +1,6 @@
+Name,Employee ID,Query,Predicted Priority,Predicted Team,Corrected Priority,Corrected Team
+Prabal Minotra,900912,The Credit Arrangement Letter was not generated properly.,AWARENESS,,HIGH PRIORITY URGENT TECHNICAL,TECH
+sdfg,234,sdfg,AWARENESS,,HIGH PRIORITY URGENT TECHNICAL,PRODUCT
+John Doe,EMP12345,The customer cannot access their online banking portal,HIGH PRIORITY URGENT TECHNICAL,TECH,HIGH PRIORITY URGENT TECHNICAL,PRODUCT
+Jane Doe,EMP999,How can I change my registered phone number?,AWARENESS,,AWARENESS,
+John Smith,EMP100,The server crashes when I upload large files,HIGH PRIORITY URGENT TECHNICAL,TECH,LOW PRIORITY TECHNICAL,PRODUCT

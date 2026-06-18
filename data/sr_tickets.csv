@@ -1,0 +1,96 @@
+sr_data_query,priority,team
+"The Credit Arrangement Letter was not correctly generated", HIGH PRIORITY URGENT TECHNICAL,TECH
+"The credit arrangement letter was not generated properly", HIGH PRIORITY URGENT TECHNICAL,TECH
+"How can I change my registered phone number?",AWARENESS,
+"The server crashes when I upload large files",HIGH PRIORITY URGENT TECHNICAL,TECH
+"Need assistance understanding the privacy policy",AWARENESS,
+"Analytics dashboard not loading since yesterday",HIGH PRIORITY URGENT TECHNICAL,TECH
+"Can I schedule monthly report delivery?",AWARENESS,
+"Search function takes too long to return results",HIGH PRIORITY LONG TERM TECHNICAL, TECH
+"Typo in the onboarding confirmation screen", LOW PRIORITY TECHNICAL, PRODUCT
+"Is there a way to deactivate my account temporarily?",AWARENESS,
+"Real-time sync not working across devices",HIGH PRIORITY URGENT TECHNICAL, TECH
+"Request to rename a feature for better clarity",LOW PRIORITY TECHNICAL, PRODUCT
+"Can I access your services outside India?",AWARENESS,
+"Critical form validation failing during signup",HIGH PRIORITY URGENT TECHNICAL,TECH
+"Unable to export PDF reports correctly",HIGH PRIORITY URGENT TECHNICAL,TECH
+"TERMs of use are unclear about data retention",AWARENESS,
+"App becomes unresponsive after login",HIGH PRIORITY URGENT TECHNICAL,TECH
+"Request to add tooltip help to form fields",LOW PRIORITY TECHNICAL,PRODUCT
+"Does your system support multi-language UI?",AWARENESS,
+"Reports aren't emailed to my inbox",HIGH PRIORITY LONG TERM TECHNICAL,PRODUCT
+"Feature buttons are misaligned on small screens",LOW PRIORITY TECHNICAL,TECH
+"Where can I find invoices from last year?",AWARENESS,
+"File upload failing intermittently on mobile",HIGH PRIORITY URGENT TECHNICAL,TECH
+"Suggestion to improve navigation flow",LOW PRIORITY TECHNICAL,PRODUCT
+"Is your service GDPR compliant?",AWARENESS,
+"Audit logs missing for some admin actions",HIGH PRIORITY URGENT TECHNICAL,TECH
+"Slow response times during high traffic",HIGH PRIORITY LONG TERM TECHNICAL,PRODUCT
+"How do I add a secondary user?",AWARENESS,
+"Notification badge not updating after viewing messages",LOW PRIORITY TECHNICAL,TECH
+"How to switch between personal and business accounts?",AWARENESS,
+"Security settings not reflecting changes immediately",HIGH PRIORITY URGENT TECHNICAL,TECH
+"Broken link in FAQs section",LOW PRIORITY TECHNICAL,PRODUCT
+"Can I turn off push notifications?",AWARENESS,
+"Application hangs when selecting payment method",HIGH PRIORITY URGENT TECHNICAL,TECH
+"Request for customizable invoice format",HIGH PRIORITY LONG TERM TECHNICAL,PRODUCT
+"Text overlaps on iPad screens",HIGH PRIORITY URGENT TECHNICAL,TECH
+"How do I unsubscribe from emails?",AWARENESS,
+"Bug: Profile picture not saving",LOW PRIORITY TECHNICAL,PRODUCT
+"How do I transfer ownership of my account?",AWARENESS,
+"Intermittent downtime on admin panel",HIGH PRIORITY URGENT TECHNICAL,TECH
+"Need to adjust TERMs shown to users in EU",HIGH PRIORITY LONG TERM TECHNICAL,policy
+"How do I delete my saved addresses?",AWARENESS,
+"Button color contrast for accessibility",LOW PRIORITY TECHNICAL,PRODUCT
+"Explain the billing cycle in detail",AWARENESS,
+"App logs me out after each session",HIGH PRIORITY LONG TERM TECHNICAL,TECH
+"Please rephrase T&C for better readability",LOW PRIORITY TECHNICAL,policy
+"How to activate two-factor authentication?",AWARENESS,
+"Live chat disconnects randomly",HIGH PRIORITY URGENT TECHNICAL,TECH
+"Delayed syncing of contacts",HIGH PRIORITY LONG TERM TECHNICAL,TECH
+"Alignment on password reset screen",LOW PRIORITY TECHNICAL,PRODUCT
+"What happens to my data if I close my account?",AWARENESS,
+"Cannot submit KYC documents",HIGH PRIORITY URGENT TECHNICAL,TECH
+"PDF reports have formatting issues",HIGH PRIORITY LONG TERM TECHNICAL,PRODUCT
+"Email input box extends beyond layout",LOW PRIORITY TECHNICAL,PRODUCT
+"Can I recover deleted data?",AWARENESS,
+"Payments not reflecting in transaction history",HIGH PRIORITY URGENT TECHNICAL,TECH
+"Suggestion: Option to duplicate past orders",LOW PRIORITY TECHNICAL,PRODUCT
+"What’s your data encryption policy?",AWARENESS,
+"Dashboard takes time to reflect recent activity",HIGH PRIORITY LONG TERM TECHNICAL,TECH
+"Logo is blurry on login screen",LOW PRIORITY TECHNICAL,PRODUCT
+"Can I pause my subscription?",AWARENESS,
+"Policy page link is broken",LOW PRIORITY TECHNICAL,policy
+"Unable to verify email address",HIGH PRIORITY URGENT TECHNICAL,TECH
+"Request for reports to include timestamps",HIGH PRIORITY LONG TERM TECHNICAL,PRODUCT
+"Spelling error in contact us footer",LOW PRIORITY TECHNICAL,PRODUCT
+"Is your platform ISO certified?",AWARENESS,
+"System throws 500 error on API call",HIGH PRIORITY URGENT TECHNICAL,TECH
+"Redesign suggestion for checkout fLOW",LOW PRIORITY TECHNICAL,PRODUCT
+"How do I request data deletion?",AWARENESS,
+"Cannot apply coupon code during checkout",HIGH PRIORITY URGENT TECHNICAL,TECH
+"AlLOW admins to revoke access remotely",HIGH PRIORITY LONG TERM TECHNICAL,policy
+"Form field doesn't auto-focus",LOW PRIORITY TECHNICAL,PRODUCT
+"Where do I update my communication preferences?",AWARENESS,
+"Mismatch in values between app and exported CSV",HIGH PRIORITY URGENT TECHNICAL,TECH
+"App UI freezes when switching tabs",HIGH PRIORITY LONG TERM TECHNICAL,TECH
+"Fonts inconsistent across platforms",LOW PRIORITY TECHNICAL,PRODUCT
+"Do you offer student discounts?",AWARENESS,
+"Compliance data not available in audit export",HIGH PRIORITY LONG TERM TECHNICAL,policy
+"App not showing latest announcements",LOW PRIORITY TECHNICAL,PRODUCT
+"Can I use this service in offline mode?",AWARENESS,
+"Account suspended without reason",HIGH PRIORITY URGENT TECHNICAL,policy
+"Feature request: Custom user roles",HIGH PRIORITY LONG TERM TECHNICAL,PRODUCT
+"Image fails to upload under weak network",LOW PRIORITY TECHNICAL,TECH
+"What ports does your API use?",AWARENESS,
+"Admin panel not updating after edits",HIGH PRIORITY LONG TERM TECHNICAL,TECH
+"Alignment in billing section",LOW PRIORITY TECHNICAL,PRODUCT
+"How do I contact your legal team?",AWARENESS,
+"Unexpected logout from web portal",HIGH PRIORITY URGENT TECHNICAL,TECH
+"Request version history tracking",HIGH PRIORITY LONG TERM TECHNICAL,PRODUCT
+"Link colors are not accessible to colorblind users",LOW PRIORITY TECHNICAL,PRODUCT
+"Can I manage multiple accounts under one login?",AWARENESS,
+"App shows outdated license information",HIGH PRIORITY LONG TERM TECHNICAL,PRODUCT
+"Add support for CSV bulk import",HIGH PRIORITY LONG TERM TECHNICAL,PRODUCT
+"Form text overlaps on translation",LOW PRIORITY TECHNICAL,TECH
+"Where can I download old tax forms?",AWARENESS,
